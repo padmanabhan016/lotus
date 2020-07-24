@@ -1,0 +1,52 @@
+body{margin:0; text-align:center;
+}
+
+
+.parent{
+	position: relative;
+}
+.para1{
+	position:absolute;display:block;color:white;margin:10% 10%;width:50%;font-size: 160%;
+font-family: 'Shadows Into Light', cursive;
+
+}
+.hr1{
+	width: 10%;;height:20%;border:10px dotted #581845 ;border-right: none;border-left: none;border-bottom:none
+}
+.hr2{width: 10%;;height:20%;border:10px dotted white  ;border-right: none;border-left: none;border-bottom:none
+
+}
+#tab{
+	margin-left: auto;margin-right: auto;
+}
+
+
+.tr1{
+	table-layout:auto;width: 3px;text-align: right;
+}
+.para2{
+	text-align: left;font-family: 'Pacifico', cursive;font-size: 200%;
+}
+.header4{
+	text-align: left;font-family: 'Bad Script', cursive;font-size: 120%;
+}
+.para3{
+	text-align: right;font-family: 'Pacifico', cursive;font-size: 200%;
+}
+.header5{
+	text-align: right;font-family: 'Bad Script', cursive;font-size: 120%;
+}
+.tr2{
+	table-layout:auto;width: 3px;text-align:left;
+}
+.heading4{
+	color: white;
+}
+.heading2{
+	font-family: 'Architects Daughter', cursive;font-size: 200%;
+}
+.heading3{
+
+	font-family: 'Cookie', cursive;font-size:300%
+
+}
